@@ -1,0 +1,7 @@
+name: CountdownCommand
+version: ${project.version}
+main: de.tschallacka.spigot.countdowncommand.CountdownCommand
+api-version: 1.13
+authors: [Tschallacka]
+description: A plugin that lets given commands only run after a countdown
+website: https://www.tschallacka.de
